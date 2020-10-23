@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SPIGOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/SPIGOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/SPIGOT.jar!/" />
+    </SOURCES>
+  </library>
+</component>

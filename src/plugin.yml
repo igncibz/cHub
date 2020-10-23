@@ -1,0 +1,7 @@
+name: cHub
+version: 1.0
+author: cibz
+main: cibz.cHub.Main.Main
+commands:
+  server:
+    usage: /server
